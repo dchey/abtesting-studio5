@@ -8,6 +8,13 @@ header {
 	padding-top: 20px;
 }
 
+nav {
+	padding-left: 40px;
+  padding-top: 10px;
+  color: darkgreen;
+  font-size: 15px;
+}
+
 .vendor-wrapper {
 	justify-content: left;
 	padding-left: 40px;
